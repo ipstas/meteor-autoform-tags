@@ -12,7 +12,7 @@ Package.onUse(function(api) {
     'templating',
     'coffeescript',
     'reactive-var',
-    'aldeed:autoform@5.6.0',
+    'aldeed:autoform@6.0.0',
     'ajduke:bootstrap-tagsinput@0.7.0'
   ], 'client');
 
